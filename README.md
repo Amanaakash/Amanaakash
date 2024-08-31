@@ -1,12 +1,12 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13c2d163-e876-4ac3-8b80-763534aeac92/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzYzJkMTYzLWU4NzYtNGFjMy04YjgwLTc2MzUzNGFlYWM5MlwvZGZoZTZudC04YTVmMTQyZS01MmU4LTRlNjItYTFiZC1kNDkxYjg4YjA2MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ajuOTvtACVjqKhLvTcdv6xHfyVB0fYUhLK5SRmnLmjU)
+<div align="center"><img width="800" height="auto" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13c2d163-e876-4ac3-8b80-763534aeac92/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzYzJkMTYzLWU4NzYtNGFjMy04YjgwLTc2MzUzNGFlYWM5MlwvZGZoZTZudC04YTVmMTQyZS01MmU4LTRlNjItYTFiZC1kNDkxYjg4YjA2MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ajuOTvtACVjqKhLvTcdv6xHfyVB0fYUhLK5SRmnLmjU"></div>
 <h1 align="center">Hi 👋, I'm Aman Aakash</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A tech enthusiast, exploring different domains of computer science and tech.</h3>
 
 <p align="left"> <a href="https://twitter.com/amanaka88593578" target="blank"><img src="https://img.shields.io/twitter/follow/amanaka88593578?logo=twitter&style=for-the-badge" alt="amanaka88593578" /></a> </p>
 
-- 🌱 I’m currently learning **to create responsive websites**
+- 🌱 I’m currently learning **machine learning and fullstack web development**
 
-- 💬 Ask me about **JavaScript , React**
+- 💬 Ask me about **JavaScript , React, NodeJs, C**
 
 - 📫 How to reach me **amanakashofficial@gmail.com**
 
