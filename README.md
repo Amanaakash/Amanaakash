@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **machine learning and fullstack web development**
 
-- 💬 Ask me about **JavaScript , React, NodeJs, C**
+- 💬 Ask me about **JavaScript , Python, LLMs, RAG, React, NodeJs, C**
 
 - 📫 How to reach me **amanakashofficial@gmail.com**
 
